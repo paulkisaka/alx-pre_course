@@ -1,1 +1,1 @@
-My second readme
+Starying to code
